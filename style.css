@@ -1,0 +1,69 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.section_table_price{
+    /* text-align: center; */
+    margin-left: 200px;
+    margin-top:40px;
+}
+th {
+    background-color: rgb(255, 191, 0);
+    color:rgb(241, 108, 0);
+    font-size: 20px;
+    font-family: sans-serif;
+    padding:10px 0px;
+}
+.tr_number_1{
+    background-color: rgb(255, 191, 0);
+    color:rgb(241, 108, 0);
+}
+.tr_number_1 td{
+    padding: 30px;
+}
+.number_for_price{
+    position: relative;
+    top:5px;
+    /* left: 30px; */
+    text-align:center;
+    font-size:50px;
+}
+img{
+    position: relative;
+    left:5px;
+    width:40px;
+    height:40px;
+    /* margin: 10px; */
+}
+.gray_1 {
+    text-align: center;
+    background-color: rgba(227, 225, 225, 0.633);
+}
+.gray_0 {
+    text-align:center;
+    background-color: rgba(128, 128, 128, 0.633);
+}
+.title_element{
+    text-align: left;
+    padding: 10px;
+}
+td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.td_signup{
+    padding: 20px;
+}
+.signup{
+    padding: 10px 20px;
+    
+    border:2px solid gainsboro;
+    border-radius: 10px;
+}
+.signup:hover{
+    background-color: rgb(198, 194, 194);
+}
+a{
+    text-decoration:none;
+    color:black;
+}
